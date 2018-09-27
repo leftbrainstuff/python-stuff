@@ -1,0 +1,1 @@
+yacht-rally.csv contains cruising rally result data about cruising yachts in numerous rallys around the world. The companion Jupyter notebook contains python and R methods for data cleansing and visualization
